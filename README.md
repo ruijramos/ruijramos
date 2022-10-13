@@ -6,5 +6,5 @@
 - I'm interested in continuing researching topics such as Machine Learning and Data Science 👀 
 - I'm currently learning to deepen my Python 🐍 knowledge with new challenges!
 - I’m looking to collaborate with other researchers 🤝🏻
-- How to reach me: ruiramos2604@gmail.com 📫
+- How to reach me: https://linktr.ee/ruijramos 📫
 
