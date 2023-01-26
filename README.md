@@ -7,3 +7,7 @@
 - I’m looking to collaborate with other researchers 🤝🏻
 - How to reach me: https://linktr.ee/ruijramos 📫
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruijramos&langs_count=5&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
