@@ -10,7 +10,7 @@
 - Passionate about footbal, with an annual seat at the stadium of my beloved club ⚽
 - Gamer, mostly offline console games and competitive online footbal games 🎮
 - Passionate about making music: guitar, piano, ukelele, cavaquinho, melodica, and others 🎵
-- Traveler ✈️
+- I like to travel, either within or outside the country, preferably to historical or nature destinations ✈
 
 ### How to reach me 📫
 - Feel free to contact me through LinkedIn, you can find it on my LinkTree: https://linktr.ee/ruijramos 🔗
