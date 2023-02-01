@@ -9,7 +9,7 @@
 
 - Passionate about footbal, with an annual seat at the stadium of my beloved club ⚽
 - Gamer, mostly offline console games and competitive online footbal games 🎮
-- Passionate about making music: guitar, piano, ukelele, ukulele, melodica, and others 🎵
+- Passionate about making music: guitar, piano, ukelele, cavaquinho, melodica, and others 🎵
 - Traveler 🚀
 
 ### How to reach me 📫
