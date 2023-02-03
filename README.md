@@ -15,3 +15,14 @@
 ### How to reach me 📫
 - Feel free to contact me through LinkedIn, you can find it on my LinkTree: https://linktr.ee/ruijramos 🔗
 
+### Some GitHub info:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruijramos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruijramos&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruijramos)](https://git.io/streak-stats)
+
+
+
+
