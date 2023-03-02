@@ -3,7 +3,7 @@
 ### I'm a Researcher 🔎 and Full-Stack Developer 💻 at INESC TEC!
 
 - I'm currently working on Software Solutions 💻 and R&D projects 🔎
-- I am a Master in Network and Computer Systems Engineering, with a focus on Machine Learning and Data Science 🎓
+- I am a Master in Engineering, with a focus on Machine Learning and Data Science 🎓
 
 ### More about me ❓
 
