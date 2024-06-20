@@ -2,12 +2,14 @@
 
 ### I'm a Researcher 🔎 and Full-Stack Developer 💻 at INESC TEC!
 
-- I'm currently working on Software Solutions 💻 and R&D projects 🔎
-- I am a Master in Engineering, with a focus on Machine Learning and Data Science 🎓
+- I'm currently working on Software 💻 and R&D projects 🔎
+- I am a Master in Engineering, with a focus on Machine Learning, Data Science and Data Privacy 🎓
+- My work currently focuses on topics such as health, the atmosphere and the ocean 💡
 
 ### More about me ❓
 
-- Passionate about footbal, with an annual seat at the stadium of my beloved club ⚽
+- Passionate about science and the development of human knowledge 🔎
+- Big footbal fan, with an annual seat at the stadium of my beloved club ⚽
 - Gamer, mostly offline console games and competitive online footbal games 🎮
 - Passionate about making music: guitar, piano, ukelele, cavaquinho, melodica, and others 🎵
 - I like to travel, either within or outside the country, preferably to historical or nature destinations ✈
@@ -15,6 +17,7 @@
 ### How to reach me 📫
 - Feel free to contact me through LinkedIn, you can find it on my LinkTree: https://linktr.ee/ruijramos 🔗
 
+<!--
 ### My day-to-day tools 🛠️
 
 <div>
@@ -32,11 +35,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
+-->
+
+<!-- 
 ### Some GitHub stats 📊
+-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruijramos&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruijramos&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=ruijramos)](https://git.io/streak-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruijramos&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=ruijramos)](https://git.io/streak-stats) -->
 
 
 
