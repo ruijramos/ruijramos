@@ -1,10 +1,10 @@
 # "Olá", my name is Rui Ramos 👋 
 
-### I'm a Researcher 🔎 and Full-Stack Developer 💻 at INESC TEC!
+### I'm a Researcher 🔎 and Full Stack Developer 💻 at INESC TEC!
 
 - I'm currently working on Software 💻 and R&D projects 🔎
-- I am a Master in Engineering, with a focus on Machine Learning, Data Science and Data Privacy 🎓
-- My work currently focuses on topics such as health, the atmosphere and the ocean 💡
+- I am a Master in Network and Information Systems Engineering, with a focus on Machine Learning, Data Science and Data Privacy 🎓
+- My work currently focuses on topics such as health and the observation of the earth and the ocean. 💡
 
 ### More about me ❓
 
