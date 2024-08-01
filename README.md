@@ -3,8 +3,8 @@
 ### I'm a Researcher 🔎 and Full Stack Developer 💻 at INESC TEC!
 
 - I'm currently working on Software 💻 and R&D projects 🔎
-- I am a Master in Network and Information Systems Engineering, with a focus on Machine Learning, Data Science and Data Privacy 🎓
-- My work currently focuses on topics such as health and the observation of the earth and the ocean. 💡
+- I am a Master in Network and Information Systems Engineering, with a focus on Machine Learning, Data Science and Cybersecurity. 🎓
+- My activity centres on software development and research in the areas of data privacy and security, machine learning and data science, with a particular focus on topics such as health, the earth and the ocean. 💡
 
 ### More about me ❓
 
