@@ -1,6 +1,6 @@
 # "Olá", my name is Rui Ramos 👋 
 
-### I'm a Researcher 🔎 and Full Stack Developer 💻 at INESC TEC!
+### I'm a Researcher 🔎 and Software Engineer 💻 at INESC TEC!
 
 - I'm currently working on Software 💻 and R&D projects 🔎
 - I am a PhD student in Computer Science, with research focused on distributed machine learning and data privacy and security. 🎓
