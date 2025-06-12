@@ -3,7 +3,6 @@
 ### I'm a Researcher 🔎 and Software Engineer 💻 at INESC TEC!
 
 - I'm currently working on Software 💻 and R&D projects 🔎
-- I am a PhD student in Computer Science, with research focused on distributed machine learning and data privacy and security. 🎓
 - My activity centres on software development and research in the areas of data privacy and security, machine learning and data science, with a particular focus on topics such as health, the earth and the ocean. 💡
 
 ### More about me ❓
