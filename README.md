@@ -1,17 +1,9 @@
 # "Olá", my name is Rui Ramos 👋 
 
-### I'm a Researcher 🔎 and Software Engineer 💻 at INESC TEC!
+### I'm a Researcher 🔎 and Software Engineer 💻 
 
-- I'm currently working on Software 💻 and R&D projects 🔎
-- My activity centres on software development and research in the areas of data privacy and security, machine learning and data science, with a particular focus on topics such as health, the earth and the ocean. 💡
-
-### More about me ❓
-
-- Passionate about science and the development of human knowledge 🔎
-- Big footbal fan, with an annual seat at the stadium of my beloved club ⚽
-- Gamer, mostly offline console games and competitive online footbal games 🎮
-- Passionate about making music: guitar, piano, ukelele, cavaquinho, melodica, and others 🎵
-- I like to travel, either within or outside the country, preferably to historical or nature destinations ✈
+- I'm currently working on software products and R&D projects.
+- My activity focuses on software engineering and architecture, data privacy and security, artificial intelligence, and data science, with particular emphasis on applications in the fields of health and life sciences, geospatial and environmental monitoring, and smart infrastructures and industry.
 
 ### How to reach me 📫
 - Feel free to contact me through LinkedIn, you can find it on my LinkTree: https://linktr.ee/ruijramos 🔗
