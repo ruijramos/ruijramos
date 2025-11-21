@@ -1,4 +1,4 @@
-# "Olá", my name is Rui Ramos 👋 
+# "Olá", my name is Rui Jorge Ramos 👋 
 
 ### I'm a Researcher 🔎 and Software Engineer 💻 
 
